@@ -1,1 +1,3 @@
-# eac20133c99ae5afca10532861a758b9
+# DICTIONARY APP - ONLINE VERSION
+A simple pocket dictionary app using which the user can find the definition and meaning of any word.
+
